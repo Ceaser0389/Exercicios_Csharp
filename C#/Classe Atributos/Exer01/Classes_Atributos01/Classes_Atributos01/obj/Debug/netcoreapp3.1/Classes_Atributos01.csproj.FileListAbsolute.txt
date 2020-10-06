@@ -1,0 +1,13 @@
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.exe
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.deps.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.runtimeconfig.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.runtimeconfig.dev.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.dll
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\bin\Debug\netcoreapp3.1\Classes_Atributos01.pdb
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.csprojAssemblyReference.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.AssemblyInfo.cs
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.dll
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.pdb
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer01\Classes_Atributos01\Classes_Atributos01\obj\Debug\netcoreapp3.1\Classes_Atributos01.genruntimeconfig.cache

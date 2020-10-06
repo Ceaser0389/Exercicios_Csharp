@@ -1,0 +1,13 @@
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.exe
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.deps.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.runtimeconfig.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.runtimeconfig.dev.json
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.dll
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\bin\Debug\netcoreapp3.1\ClassesAtributos02.pdb
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.csprojAssemblyReference.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.AssemblyInfo.cs
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.dll
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.pdb
+C:\Projetos\CSharp\C  IDE\C#\Classe Atributos\Exer02\ClassesAtributos02\ClassesAtributos02\obj\Debug\netcoreapp3.1\ClassesAtributos02.genruntimeconfig.cache
